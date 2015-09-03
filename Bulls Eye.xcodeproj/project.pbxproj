@@ -13,6 +13,18 @@
 		674A17B41B96A34D00B7D9A5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 674A17B31B96A34D00B7D9A5 /* Images.xcassets */; };
 		674A17B71B96A34D00B7D9A5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 674A17B51B96A34D00B7D9A5 /* LaunchScreen.xib */; };
 		674A17C31B96A34D00B7D9A5 /* Bulls_EyeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 674A17C21B96A34D00B7D9A5 /* Bulls_EyeTests.swift */; };
+		674A17CD1B9787C800B7D9A5 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 674A17CC1B9787C800B7D9A5 /* AboutViewController.swift */; };
+		674A17CF1B9865C600B7D9A5 /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = 674A17CE1B9865C600B7D9A5 /* BullsEye.html */; };
+		674A17DB1B98661700B7D9A5 /* Icon-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 674A17D11B98661700B7D9A5 /* Icon-1024.png */; };
+		674A17DC1B98661700B7D9A5 /* Icon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 674A17D21B98661700B7D9A5 /* Icon-120.png */; };
+		674A17DD1B98661700B7D9A5 /* Icon-152.png in Resources */ = {isa = PBXBuildFile; fileRef = 674A17D31B98661700B7D9A5 /* Icon-152.png */; };
+		674A17DE1B98661700B7D9A5 /* Icon-180.png in Resources */ = {isa = PBXBuildFile; fileRef = 674A17D41B98661700B7D9A5 /* Icon-180.png */; };
+		674A17DF1B98661700B7D9A5 /* Icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 674A17D51B98661700B7D9A5 /* Icon-29.png */; };
+		674A17E01B98661700B7D9A5 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 674A17D61B98661700B7D9A5 /* Icon-40.png */; };
+		674A17E11B98661700B7D9A5 /* Icon-58.png in Resources */ = {isa = PBXBuildFile; fileRef = 674A17D71B98661700B7D9A5 /* Icon-58.png */; };
+		674A17E21B98661700B7D9A5 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 674A17D81B98661700B7D9A5 /* Icon-76.png */; };
+		674A17E31B98661700B7D9A5 /* Icon-80.png in Resources */ = {isa = PBXBuildFile; fileRef = 674A17D91B98661700B7D9A5 /* Icon-80.png */; };
+		674A17E41B98661700B7D9A5 /* Icon-87.png in Resources */ = {isa = PBXBuildFile; fileRef = 674A17DA1B98661700B7D9A5 /* Icon-87.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +48,18 @@
 		674A17BC1B96A34D00B7D9A5 /* Bulls EyeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Bulls EyeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		674A17C11B96A34D00B7D9A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		674A17C21B96A34D00B7D9A5 /* Bulls_EyeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bulls_EyeTests.swift; sourceTree = "<group>"; };
+		674A17CC1B9787C800B7D9A5 /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		674A17CE1B9865C600B7D9A5 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = BullsEye.html; path = "../../../Swift Resources/RAYWENDERLICH–The iOS Apprentice Third Edition/The iOS Apprentice 1 - Getting Started/Resources/BullsEye.html"; sourceTree = "<group>"; };
+		674A17D11B98661700B7D9A5 /* Icon-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-1024.png"; sourceTree = "<group>"; };
+		674A17D21B98661700B7D9A5 /* Icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-120.png"; sourceTree = "<group>"; };
+		674A17D31B98661700B7D9A5 /* Icon-152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-152.png"; sourceTree = "<group>"; };
+		674A17D41B98661700B7D9A5 /* Icon-180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-180.png"; sourceTree = "<group>"; };
+		674A17D51B98661700B7D9A5 /* Icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29.png"; sourceTree = "<group>"; };
+		674A17D61B98661700B7D9A5 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40.png"; sourceTree = "<group>"; };
+		674A17D71B98661700B7D9A5 /* Icon-58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-58.png"; sourceTree = "<group>"; };
+		674A17D81B98661700B7D9A5 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		674A17D91B98661700B7D9A5 /* Icon-80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-80.png"; sourceTree = "<group>"; };
+		674A17DA1B98661700B7D9A5 /* Icon-87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-87.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,9 +101,12 @@
 		674A17A91B96A34D00B7D9A5 /* Bulls Eye */ = {
 			isa = PBXGroup;
 			children = (
+				674A17D01B98661700B7D9A5 /* Icon */,
+				674A17CE1B9865C600B7D9A5 /* BullsEye.html */,
 				674A17AC1B96A34D00B7D9A5 /* AppDelegate.swift */,
 				674A17AE1B96A34D00B7D9A5 /* ViewController.swift */,
 				674A17B01B96A34D00B7D9A5 /* Main.storyboard */,
+				674A17CC1B9787C800B7D9A5 /* AboutViewController.swift */,
 				674A17B31B96A34D00B7D9A5 /* Images.xcassets */,
 				674A17B51B96A34D00B7D9A5 /* LaunchScreen.xib */,
 				674A17AA1B96A34D00B7D9A5 /* Supporting Files */,
@@ -110,6 +137,23 @@
 				674A17C11B96A34D00B7D9A5 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		674A17D01B98661700B7D9A5 /* Icon */ = {
+			isa = PBXGroup;
+			children = (
+				674A17D11B98661700B7D9A5 /* Icon-1024.png */,
+				674A17D21B98661700B7D9A5 /* Icon-120.png */,
+				674A17D31B98661700B7D9A5 /* Icon-152.png */,
+				674A17D41B98661700B7D9A5 /* Icon-180.png */,
+				674A17D51B98661700B7D9A5 /* Icon-29.png */,
+				674A17D61B98661700B7D9A5 /* Icon-40.png */,
+				674A17D71B98661700B7D9A5 /* Icon-58.png */,
+				674A17D81B98661700B7D9A5 /* Icon-76.png */,
+				674A17D91B98661700B7D9A5 /* Icon-80.png */,
+				674A17DA1B98661700B7D9A5 /* Icon-87.png */,
+			);
+			path = Icon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -193,7 +237,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				674A17B21B96A34D00B7D9A5 /* Main.storyboard in Resources */,
+				674A17DB1B98661700B7D9A5 /* Icon-1024.png in Resources */,
+				674A17DF1B98661700B7D9A5 /* Icon-29.png in Resources */,
+				674A17DD1B98661700B7D9A5 /* Icon-152.png in Resources */,
+				674A17E01B98661700B7D9A5 /* Icon-40.png in Resources */,
+				674A17E21B98661700B7D9A5 /* Icon-76.png in Resources */,
+				674A17E31B98661700B7D9A5 /* Icon-80.png in Resources */,
+				674A17E41B98661700B7D9A5 /* Icon-87.png in Resources */,
+				674A17CF1B9865C600B7D9A5 /* BullsEye.html in Resources */,
 				674A17B71B96A34D00B7D9A5 /* LaunchScreen.xib in Resources */,
+				674A17E11B98661700B7D9A5 /* Icon-58.png in Resources */,
+				674A17DC1B98661700B7D9A5 /* Icon-120.png in Resources */,
+				674A17DE1B98661700B7D9A5 /* Icon-180.png in Resources */,
 				674A17B41B96A34D00B7D9A5 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -212,6 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				674A17CD1B9787C800B7D9A5 /* AboutViewController.swift in Sources */,
 				674A17AF1B96A34D00B7D9A5 /* ViewController.swift in Sources */,
 				674A17AD1B96A34D00B7D9A5 /* AppDelegate.swift in Sources */,
 			);
